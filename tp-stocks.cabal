@@ -28,7 +28,6 @@ library
       Basics
       Inventory
       S2021.SampleStudent
-      S2021.Sol
   other-modules:
       Paths_tp_stocks
   hs-source-dirs:

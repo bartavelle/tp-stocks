@@ -3,7 +3,7 @@ module Main where
 import Basics as B
 import qualified Inventory as I
 import InventorySpec (checkoutTests)
-import qualified S2021.Sol as S
+import qualified S2021.SampleStudent as S
 import Test.Hspec (SpecWith, describe, hspec, it, shouldBe, xdescribe)
 import Test.Hspec.QuickCheck (prop)
 
