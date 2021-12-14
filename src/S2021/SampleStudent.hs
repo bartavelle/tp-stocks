@@ -4,6 +4,9 @@ import Basics as B
 import qualified Data.Map.Strict as M
 import Inventory as I
 
+students :: [String]
+students = ["Student 1", "Student 2"]
+
 -- PART 1 - basics
 
 -- | Write a functions that adds two Int.
