@@ -155,9 +155,6 @@ computePrice = undefined
 
 -- | The checkout functions computes how much a customer should pay for
 -- a given basket, and updates the inventory. It can also fail!
---
--- It is recommended to first fill the next functions, as they will be
--- quite useful for writing this one!
 checkout ::
   -- | products catalog
   Catalog ->
