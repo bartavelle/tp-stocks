@@ -27,6 +27,7 @@ library
   exposed-modules:
       Basics
       Inventory
+      Parser
       S2021.SampleStudent
   other-modules:
       Paths_tp_stocks
